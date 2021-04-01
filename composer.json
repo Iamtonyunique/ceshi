@@ -1,0 +1,17 @@
+{
+	"name": "cxp/laravel-avatar",
+    "description": "laravel avatar",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "wanglele",
+            "email": "357620290@qq.com"
+        }
+    ],
+    "autoload": {
+      "psr-4": {
+        "Cxp\\Avatar\\": "src"
+      }
+    },
+    "require": {}
+}
