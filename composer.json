@@ -1,5 +1,5 @@
 {
-	"name": "cxp/laravel-avatar",
+	"name": "Wanglele/laravel-avatar",
     "description": "laravel avatar",
     "license": "MIT",
     "authors": [
@@ -10,7 +10,7 @@
     ],
     "autoload": {
       "psr-4": {
-        "Cxp\\Avatar\\": "src"
+        "Wanglele\\Avatar\\": "src"
       }
     },
     "require": {}
