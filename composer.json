@@ -13,5 +13,8 @@
         "Wanglele\\Avatar\\": "src"
       }
     },
-    "require": {}
+    "require": {},
+	"require": {
+        "wanglele/laravel-avatar": "1.0.0"
+    }
 }
