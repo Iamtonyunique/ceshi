@@ -1,7 +1,7 @@
 <?php
 
 
-namespace Cxp\Avatar;
+namespace Wanglele\Avatar;
 
 class AvatarProvider 
 {
